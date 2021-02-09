@@ -1,4 +1,6 @@
 # DevPvP AdvancedBan Plugin Config
+
+#Warning this config is made for the BUNGEECORD variant of this plugin but im pretty sure its the same as the spigot version.
 This is a configuration for the plugin 'AdvancedBan'
 This config file has the prefix disabled so there is no "AdvancedBan >>" when an action is taken against a player, Also i have made the colours look a bit nicer and the ban screen more functional and more informational.
 
